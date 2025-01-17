@@ -1,3 +1,15 @@
 .env
-./node_modules
+node_modules/
+build/
 .json
+.env.local
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+.cache/
